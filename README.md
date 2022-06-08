@@ -1,5 +1,5 @@
 ## Introduction
-In this notebook we will download and preprocess the data for the liver and liver tumor segmentation:<br />
+In this project we will download and preprocess the data for the liver and liver tumor segmentation:<br />
 The data is provided by the medical segmentation decathlon (http://medicaldecathlon.com/)<br /> (Data License: https://creativecommons.org/licenses/by-sa/4.0/)<br />
 
 You can directly download the original cardiac MRIs and segmentation maps from: <br />
